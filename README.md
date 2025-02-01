@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
 <h3 align="center">Software Engineer § Industrial Engineer</h3>
 
-- 🌱 I’m currently learning **Data Engineering and Data Analyst**
+- 🌱 I’m currently learning **iOS Mobile Developing**
 
 - 📝 I regularly write articles on [https://medium.com/@merveibis](https://medium.com/@merveibis)
 
